@@ -1,0 +1,38 @@
+[
+  {
+    "remote": "github",
+    "repository": "ralf979/kernel_oneplus_sm8350",
+    "target_path": "kernel/oneplus/sm8350",
+    "branch": "trece_XT"
+  },
+  {
+    "remote": "github",
+    "repository": "ralf979/android_hardware_oplus",
+    "target_path": "hardware/oplus",
+    "branch": "trece"
+  },
+    {
+    "remote": "gitlab",
+    "repository": "heisinbug/vendor_oneplus_sm8350-common",
+    "target_path": "vendor/oneplus/sm8350-common"",
+    "branch": "trece"
+  },
+   {
+    "remote": "gitlab",
+    "repository": "ralf979/android_vendor_oneplus_firmware",
+    "target_path": "vendor/oneplus-firmware",
+    "branch": "trece"
+  },
+   {
+    "remote": "github",
+    "repository": "kdrag0n/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+    "branch": "trece"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "ralf979/vendor_oplus_camera",
+    "target_path": "vendor/oplus/camera",
+    "branch": "trece"
+  }
+]
